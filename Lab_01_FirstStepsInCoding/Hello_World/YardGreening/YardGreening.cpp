@@ -17,6 +17,6 @@ int main()
 
     double totalPrice = totalYardArea * priceForSquareMeter - discount;
     
-    cout<<"The final price is: "<<totalPrice<<" lv."<<endl;
+    cout<<"\aThe final price is: "<<totalPrice<<" lv."<<endl;
     cout << "The discount is: " << discount << " lv."<<endl;
 }
